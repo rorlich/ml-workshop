@@ -1,4 +1,4 @@
-name: ValidItCudaTestEnv
+name: WorkshopCUDAEnv
 channels:
   - pytorch
   - nvidia
