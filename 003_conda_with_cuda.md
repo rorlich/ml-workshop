@@ -37,7 +37,7 @@ dependencies:
   - torchvision 
   - torchaudio 
   - pytorch-cuda=12.1
-  - cupy-cuda101
+  - cupy
   ```
 
 ## Create Env
