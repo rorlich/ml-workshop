@@ -34,6 +34,7 @@ channels:
 dependencies:
   - python=3.11
   - pytorch 
+  - scipy
   - torchvision 
   - torchaudio 
   - pytorch-cuda=12.1
