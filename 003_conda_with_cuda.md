@@ -26,7 +26,7 @@ restart session
 ```
 WorkshopCUDAEnv.yml
 
-name: ValidItCudaTestEnv
+name: WorkshopCUDAEnv
 channels:
   - pytorch
   - nvidia
@@ -42,11 +42,11 @@ dependencies:
 
 ## Create Env
 
-`conda env create --file ValidItCudaTestEnv.yml`
+`conda env create --file WorkshopCUDAEnv.yml`
 
 ## Activate Env
 
-`conda activate ValidItCudaTestEnv`
+`conda activate WorkshopCUDAEnv`
 
 ## Check CUDA enabled
 
