@@ -24,7 +24,7 @@ restart session
 
 
 ```
-WorkshopCUDAEnv.yml
+EnvCUDA.yml
 
 name: WorkshopCUDAEnv
 channels:
@@ -43,7 +43,7 @@ dependencies:
 
 ## Create Env
 
-`conda env create --file WorkshopCUDAEnv.yml`
+`conda env create --file EnvCUDA.yml`
 
 ## Activate Env
 
